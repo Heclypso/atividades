@@ -1,0 +1,1 @@
+O objetivo da atividade é praticar o merge de branchs e resolver conflitos utilizando a interface do Visual Studio Code.
